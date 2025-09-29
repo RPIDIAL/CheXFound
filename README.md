@@ -143,7 +143,8 @@ nohup torchrun --nproc_per_node=4 chexfound/eval/classification/linear_glori.py 
 @article{yang2025chest,
   title={Chest X-ray Foundation Model with Global and Local Representations Integration},
   author={Yang, Zefan and Xu, Xuanang and Zhang, Jiajin and Wang, Ge and Kalra, Mannudeep K and Yan, Pingkun},
-  journal={arXiv preprint arXiv:2502.05142},
-  year={2025}
+  journal={IEEE Transactions on Medical Imaging},
+  year={2025},
+  publisher={IEEE}
 }
 ```
